@@ -20,10 +20,6 @@ npm run build
 npm run unit
 ```
 
-## 在线访问
-[http://119.29.57.165:8080/family](http://119.29.57.165:8080/family)        
-**注意**：只有用通信1502班同学的qq号登陆才能看到我的群聊活跃时间
-
 ## 源码说明
 ```
 .
@@ -49,12 +45,3 @@ npm run unit
 |-- package.json                     // 项目配置相关信息
 .
 ```
-
-## 教程
-我的博客：[http://hyuhan.com/2016/11/17/A-data-display-platform/](http://hyuhan.com/2016/11/17/A-data-display-platform/)
-
-## 联系作者
-- [Hieeyh's Personal Website](http://hyuhan.com/)
-- Email: yuhanhou_enna@126.com
-- [微博](http://weibo.com/5204306789/profile?topnav=1&wvr=6&is_all=1)
-
